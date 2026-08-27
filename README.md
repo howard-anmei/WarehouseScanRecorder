@@ -422,7 +422,7 @@ adb devices
 例如：
 
 ```text
-01182525040358    unauthorized
+01182525099999    unauthorized
 ```
 
 解锁 PDA 屏幕。
