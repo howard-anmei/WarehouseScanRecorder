@@ -4,9 +4,7 @@
 
 它可以在后台接收 PDA 扫描器产生的条码数据，并将扫描记录保存到本地数据库。扫描记录可以手动导出，也可以通过后台定时任务自动导出为 CSV 文件。
 
-> ⚠️ **安装前请注意**
->
-> WarehouseScanRecorder 首次安装需要具备一定的 **Windows 和 PDA 基础操作知识**，并按照 README 完成 USB 调试、设备连接等设置。
+WarehouseScanRecorder 首次安装需要具备一定的 **Windows 和 PDA 基础操作知识**，并按照 README 完成 USB 调试、设备连接等设置。
 
 ---
 
